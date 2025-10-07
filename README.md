@@ -1,11 +1,11 @@
-# 🛠️ CastVision: Defect Detection in Metal Castings
-## 📘 Project Overview
+# CastVision: Defect Detection in Metal Castings
+## Project Overview
 
 This project implements an automated defect detection system for casting images using computer vision and deep learning. The system identifies whether a casting is **defective or non-defective** by analyzing image features using both **OpenCV-based contour analysis** and a **Convolutional Neural Network (CNN)**.
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 - The dataset consists of metal casting images labeled as **"def_front"** (defective) and **"ok_front"** (non-defective).
 - The data is organized into `train` and `test` folders, each containing two classes.
@@ -16,7 +16,7 @@ This project implements an automated defect detection system for casting images 
 
 ---
 
-## 🧹 Preprocessing & Visualization
+## Preprocessing & Visualization
 
 - Applied **Gaussian Blur**, **Canny edge detection**, and **contour drawing** using OpenCV for visual inspection of surface anomalies.
 - Preprocessing included:
@@ -27,7 +27,7 @@ This project implements an automated defect detection system for casting images 
 
 ---
 
-## 🤖 Model Architecture
+## Model Architecture
 
 Implemented a CNN using TensorFlow/Keras:
 
