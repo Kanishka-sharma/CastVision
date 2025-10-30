@@ -60,7 +60,7 @@ Applied random rotation, zoom, horizontal flip, and translation to enhance train
 |:------|:-----------|:--------|:----------|
 | Defective | 1.00 | 0.96 | 0.98 |
 | Non-Defective | 0.93 | 1.00 | 0.96 |
-| **Overall Accuracy** | **0.97** | — | — |
+| **Overall Accuracy** | **0.97** | - | - |
 
 ---
 
@@ -81,4 +81,4 @@ Applied random rotation, zoom, horizontal flip, and translation to enhance train
 
 ---
 
-> CastVision proves that deep learning can revolutionize industrial quality control — turning traditional inspection into intelligent automation.
+> CastVision proves that deep learning can revolutionize industrial quality control - turning traditional inspection into intelligent automation.
